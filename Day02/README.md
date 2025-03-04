@@ -1,4 +1,4 @@
-# Day 2 - Working with variables in Python to manage data
+# Day 2 - Understanding Data Type and how to manipulate strings
 
 ## What I have learned:
 
@@ -6,7 +6,7 @@
 - Mathematical Operations in Python
 - Number Manupulation
 - F Strings in Python
-- Type error and type checking
+- Type error, Type checking and Type conveersion
 
 ## Tip Calculator Project Overview
 
