@@ -10,5 +10,7 @@ people = int(input("How many people to split the bill? "))
 total_amount = tip / 100 * bill + bill
 bill_per_person =  total_amount / people
 
+# Display the results
 print(f"This is the total bill ${round(total_amount, 2)}")
+print(f"Each person should pay ${round(bill_per_person, 2)}")
 
